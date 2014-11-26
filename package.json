@@ -1,0 +1,15 @@
+{
+  "name": "react-server",
+  "version": "0.0.0",
+  "description": "yolo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "liam griffiths <liamgriffiths@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^6.3.3",
+    "envify": "^3.2.0",
+    "react": "~0.12.1"
+  }
+}
